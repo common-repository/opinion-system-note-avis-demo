@@ -1,0 +1,6 @@
+
+#opinion-system-plugin .company-rating, #opinion-system-plugin .company-rating .stars-container {background-color: #fff !important;}
+#opinion-system-plugin .company-rating .stars-container .numbers, .stars-container .small_number, .stars-container .comma, #opinion-system-plugin .company-rating .text
+{
+    color: #2A303A !important;
+}
